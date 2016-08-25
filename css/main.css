@@ -1,0 +1,58 @@
+.big{
+	background-color: #228B22;
+	height: 600px;
+	width: 1000px;
+	position: relative;
+}
+
+.inside{
+	border: 1px solid white;
+	height: 565px;
+	width: 965px;
+	position: absolute;
+	top: 17px;
+	left: 17px;
+
+}
+.uno{
+	position: relative;
+	top: 190px;
+	left: 90px;
+}
+.derecho{
+	border: 1px solid white;
+	height: 200px;
+	width: 100px;
+	position: absolute;
+	top: 183px;
+
+
+}
+.dos{
+	position: relative;
+	top: 120px;
+	left: 460px;
+}
+.circulo{
+	border: 1px solid white;
+	border-radius: 50%;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 183px;
+	left: 383px;
+}
+.tres{
+	position: relative;
+	top: 355px;
+	left: 780px;
+}
+.izquierdo{
+	border: 1px solid white;
+	height: 200px;
+	width: 100px;
+	position: absolute;
+	top: 183px;
+	left: 865px;
+
+}
